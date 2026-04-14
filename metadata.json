@@ -1,0 +1,9 @@
+{
+  "name": "Pro Camera",
+  "description": "A professional custom camera app with zoom, frame rate, and resolution controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
